@@ -7,14 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B3BFD101E278A6E00A74F28 /* welcomecontrollerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B3BFD0F1E278A6E00A74F28 /* welcomecontrollerViewController.swift */; };
+		8B3BFD111E2798C200A74F28 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9ADD0F1DFFE9C800153A33 /* ViewController.swift */; };
+		8B6A2D091E26442000D81BDB /* Do.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8B6A2D081E26442000D81BDB /* Do.wav */; };
+		8B6A2D0B1E26443000D81BDB /* Re.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8B6A2D0A1E26443000D81BDB /* Re.wav */; };
+		8B6A2D111E26445300D81BDB /* Mi.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8B6A2D0C1E26445300D81BDB /* Mi.wav */; };
+		8B6A2D121E26445300D81BDB /* Si.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8B6A2D0D1E26445300D81BDB /* Si.wav */; };
+		8B6A2D131E26445300D81BDB /* La.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8B6A2D0E1E26445300D81BDB /* La.wav */; };
+		8B6A2D141E26445300D81BDB /* Sol.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8B6A2D0F1E26445300D81BDB /* Sol.wav */; };
+		8B6A2D151E26445300D81BDB /* Fa.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8B6A2D101E26445300D81BDB /* Fa.wav */; };
 		8B9ADD0E1DFFE9C800153A33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9ADD0D1DFFE9C800153A33 /* AppDelegate.swift */; };
-		8B9ADD101DFFE9C800153A33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9ADD0F1DFFE9C800153A33 /* ViewController.swift */; };
 		8B9ADD131DFFE9C800153A33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B9ADD111DFFE9C800153A33 /* Main.storyboard */; };
 		8B9ADD151DFFE9C800153A33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B9ADD141DFFE9C800153A33 /* Assets.xcassets */; };
 		8B9ADD181DFFE9C800153A33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B9ADD161DFFE9C800153A33 /* LaunchScreen.storyboard */; };
+		8BF2913F1E27A60200EB34AA /* Solpan.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF291381E27A60200EB34AA /* Solpan.wav */; };
+		8BF291401E27A60200EB34AA /* Fapan.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF291391E27A60200EB34AA /* Fapan.wav */; };
+		8BF291411E27A60200EB34AA /* Repan.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF2913A1E27A60200EB34AA /* Repan.wav */; };
+		8BF291421E27A60200EB34AA /* Mipan.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF2913B1E27A60200EB34AA /* Mipan.wav */; };
+		8BF291431E27A60200EB34AA /* Dopan.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF2913C1E27A60200EB34AA /* Dopan.wav */; };
+		8BF291441E27A60200EB34AA /* Sipan.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF2913D1E27A60200EB34AA /* Sipan.wav */; };
+		8BF291451E27A60200EB34AA /* Lapan.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF2913E1E27A60200EB34AA /* Lapan.wav */; };
+		8BF2914D1E27AFA900EB34AA /* ours.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF291461E27AFA900EB34AA /* ours.wav */; };
+		8BF2914E1E27AFA900EB34AA /* canard.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF291471E27AFA900EB34AA /* canard.wav */; };
+		8BF2914F1E27AFA900EB34AA /* cheval.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF291481E27AFA900EB34AA /* cheval.wav */; };
+		8BF291511E27AFA900EB34AA /* vache.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF2914A1E27AFA900EB34AA /* vache.wav */; };
+		8BF291521E27AFA900EB34AA /* ane.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF2914B1E27AFA900EB34AA /* ane.wav */; };
+		8BF291531E27AFA900EB34AA /* coq.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8BF2914C1E27AFA900EB34AA /* coq.wav */; };
+		8BF291551E27B11400EB34AA /* goat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8BF291541E27B11400EB34AA /* goat.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B3BFD0F1E278A6E00A74F28 /* welcomecontrollerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = welcomecontrollerViewController.swift; sourceTree = "<group>"; };
+		8B6A2D081E26442000D81BDB /* Do.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Do.wav; path = ../../../Documents/Sons/Do.wav; sourceTree = "<group>"; };
+		8B6A2D0A1E26443000D81BDB /* Re.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Re.wav; path = ../../../Documents/Sons/Re.wav; sourceTree = "<group>"; };
+		8B6A2D0C1E26445300D81BDB /* Mi.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Mi.wav; path = "../../../Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Mi.wav"; sourceTree = "<group>"; };
+		8B6A2D0D1E26445300D81BDB /* Si.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Si.wav; path = "../../../Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Si.wav"; sourceTree = "<group>"; };
+		8B6A2D0E1E26445300D81BDB /* La.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = La.wav; path = "../../../Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/La.wav"; sourceTree = "<group>"; };
+		8B6A2D0F1E26445300D81BDB /* Sol.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Sol.wav; path = "../../../Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Sol.wav"; sourceTree = "<group>"; };
+		8B6A2D101E26445300D81BDB /* Fa.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Fa.wav; path = "../../../Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album/Fa.wav"; sourceTree = "<group>"; };
 		8B9ADD0A1DFFE9C800153A33 /* ProjectSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B9ADD0D1DFFE9C800153A33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B9ADD0F1DFFE9C800153A33 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +52,20 @@
 		8B9ADD141DFFE9C800153A33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B9ADD171DFFE9C800153A33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B9ADD191DFFE9C800153A33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BF291381E27A60200EB34AA /* Solpan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Solpan.wav; path = ../../../Documents/Solpan.wav; sourceTree = "<group>"; };
+		8BF291391E27A60200EB34AA /* Fapan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Fapan.wav; path = ../../../Documents/Fapan.wav; sourceTree = "<group>"; };
+		8BF2913A1E27A60200EB34AA /* Repan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Repan.wav; path = ../../../Documents/Repan.wav; sourceTree = "<group>"; };
+		8BF2913B1E27A60200EB34AA /* Mipan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Mipan.wav; path = ../../../Documents/Mipan.wav; sourceTree = "<group>"; };
+		8BF2913C1E27A60200EB34AA /* Dopan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Dopan.wav; path = ../../../Documents/Dopan.wav; sourceTree = "<group>"; };
+		8BF2913D1E27A60200EB34AA /* Sipan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Sipan.wav; path = ../../../Documents/Sipan.wav; sourceTree = "<group>"; };
+		8BF2913E1E27A60200EB34AA /* Lapan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Lapan.wav; path = ../../../Documents/Lapan.wav; sourceTree = "<group>"; };
+		8BF291461E27AFA900EB34AA /* ours.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ours.wav; path = ../../../Documents/ours.wav; sourceTree = "<group>"; };
+		8BF291471E27AFA900EB34AA /* canard.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = canard.wav; path = ../../../Documents/canard.wav; sourceTree = "<group>"; };
+		8BF291481E27AFA900EB34AA /* cheval.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = cheval.wav; path = ../../../Documents/cheval.wav; sourceTree = "<group>"; };
+		8BF2914A1E27AFA900EB34AA /* vache.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = vache.wav; path = ../../../Documents/vache.wav; sourceTree = "<group>"; };
+		8BF2914B1E27AFA900EB34AA /* ane.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = ane.wav; path = ../../../Documents/ane.wav; sourceTree = "<group>"; };
+		8BF2914C1E27AFA900EB34AA /* coq.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = coq.wav; path = ../../../Documents/coq.wav; sourceTree = "<group>"; };
+		8BF291541E27B11400EB34AA /* goat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = goat.mp3; path = ../../../Documents/goat.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +100,32 @@
 			children = (
 				8B9ADD0D1DFFE9C800153A33 /* AppDelegate.swift */,
 				8B9ADD0F1DFFE9C800153A33 /* ViewController.swift */,
+				8B3BFD0F1E278A6E00A74F28 /* welcomecontrollerViewController.swift */,
 				8B9ADD111DFFE9C800153A33 /* Main.storyboard */,
 				8B9ADD141DFFE9C800153A33 /* Assets.xcassets */,
 				8B9ADD161DFFE9C800153A33 /* LaunchScreen.storyboard */,
 				8B9ADD191DFFE9C800153A33 /* Info.plist */,
+				8B6A2D081E26442000D81BDB /* Do.wav */,
+				8B6A2D0A1E26443000D81BDB /* Re.wav */,
+				8B6A2D0C1E26445300D81BDB /* Mi.wav */,
+				8B6A2D0D1E26445300D81BDB /* Si.wav */,
+				8B6A2D0E1E26445300D81BDB /* La.wav */,
+				8B6A2D0F1E26445300D81BDB /* Sol.wav */,
+				8B6A2D101E26445300D81BDB /* Fa.wav */,
+				8BF291381E27A60200EB34AA /* Solpan.wav */,
+				8BF291391E27A60200EB34AA /* Fapan.wav */,
+				8BF2913A1E27A60200EB34AA /* Repan.wav */,
+				8BF2913B1E27A60200EB34AA /* Mipan.wav */,
+				8BF2913C1E27A60200EB34AA /* Dopan.wav */,
+				8BF2913D1E27A60200EB34AA /* Sipan.wav */,
+				8BF2913E1E27A60200EB34AA /* Lapan.wav */,
+				8BF291461E27AFA900EB34AA /* ours.wav */,
+				8BF291471E27AFA900EB34AA /* canard.wav */,
+				8BF291481E27AFA900EB34AA /* cheval.wav */,
+				8BF2914A1E27AFA900EB34AA /* vache.wav */,
+				8BF291541E27B11400EB34AA /* goat.mp3 */,
+				8BF2914B1E27AFA900EB34AA /* ane.wav */,
+				8BF2914C1E27AFA900EB34AA /* coq.wav */,
 			);
 			path = ProjectSwift;
 			sourceTree = "<group>";
@@ -123,9 +189,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BF291441E27A60200EB34AA /* Sipan.wav in Resources */,
+				8B6A2D141E26445300D81BDB /* Sol.wav in Resources */,
+				8BF2913F1E27A60200EB34AA /* Solpan.wav in Resources */,
+				8B6A2D0B1E26443000D81BDB /* Re.wav in Resources */,
+				8BF2914E1E27AFA900EB34AA /* canard.wav in Resources */,
 				8B9ADD181DFFE9C800153A33 /* LaunchScreen.storyboard in Resources */,
+				8BF291531E27AFA900EB34AA /* coq.wav in Resources */,
+				8B6A2D091E26442000D81BDB /* Do.wav in Resources */,
+				8BF291431E27A60200EB34AA /* Dopan.wav in Resources */,
 				8B9ADD151DFFE9C800153A33 /* Assets.xcassets in Resources */,
+				8BF2914F1E27AFA900EB34AA /* cheval.wav in Resources */,
+				8B6A2D151E26445300D81BDB /* Fa.wav in Resources */,
+				8BF291401E27A60200EB34AA /* Fapan.wav in Resources */,
+				8B6A2D121E26445300D81BDB /* Si.wav in Resources */,
+				8BF291451E27A60200EB34AA /* Lapan.wav in Resources */,
+				8BF291411E27A60200EB34AA /* Repan.wav in Resources */,
+				8BF291521E27AFA900EB34AA /* ane.wav in Resources */,
+				8BF291551E27B11400EB34AA /* goat.mp3 in Resources */,
+				8BF291421E27A60200EB34AA /* Mipan.wav in Resources */,
+				8B6A2D111E26445300D81BDB /* Mi.wav in Resources */,
+				8BF291511E27AFA900EB34AA /* vache.wav in Resources */,
+				8BF2914D1E27AFA900EB34AA /* ours.wav in Resources */,
 				8B9ADD131DFFE9C800153A33 /* Main.storyboard in Resources */,
+				8B6A2D131E26445300D81BDB /* La.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +223,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B9ADD101DFFE9C800153A33 /* ViewController.swift in Sources */,
+				8B3BFD111E2798C200A74F28 /* ViewController.swift in Sources */,
+				8B3BFD101E278A6E00A74F28 /* welcomecontrollerViewController.swift in Sources */,
 				8B9ADD0E1DFFE9C800153A33 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +387,7 @@
 				8B9ADD1E1DFFE9C800153A33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
